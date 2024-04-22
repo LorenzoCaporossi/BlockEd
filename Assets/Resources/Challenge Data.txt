@@ -1,0 +1,6 @@
+{
+    "posTitle": "As a validator in the Proof of Stake mechanism, your decision to stake Tokens influences your chance of being selected. \r\n\r\nWrite in the box the amount of Tokens you want to stake",
+    "updateTitle": "You currently have | ETH available for bidding.\r\nChoose wisely!\r\nPlace your bid above 32 ETH.",
+    "loseText": "Unfortunately, luck wasn't on your side this time. \r\n\r\nThe < bid > Tokens, and the system randomly selected their bid. As a result, they have been chosen to validate the next block.\r\n\r\nWould you like to retry with a different bid or proceed to the next challenge?",
+    "powTitle": "Provide a nonce (number) between 0 to 1000 that, when hashed, produces a hash with three leading zeros."
+}

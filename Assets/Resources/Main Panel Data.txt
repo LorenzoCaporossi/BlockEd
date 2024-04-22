@@ -1,0 +1,266 @@
+{
+    "data": [
+        {
+            "panelID": 0,
+            "title": "Start your journey to become a BlockMaster!",
+            "description": [
+                "Welcome to BlockEd, the ultimate game to master blockchain basics.",
+                "Your journey starts with a blank canvas, ready to be transformed into a secure and validated blockchain."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Next",
+            "button2" : ""
+        },
+        {
+            "panelID": 1,
+            "title": "Click on the green cube to initiate the blockchain",
+            "description": [
+                "Green Cube: Symbolizes validated blocks.\nClick on it to create a secure and verified part of the blockchain."
+            ],
+            "image": [
+                "Green Cube"
+            ],
+            "button1" : "Start",
+            "button2" : ""
+        },
+        {
+            "panelID": 3,
+            "title": "Drag and drop the blocks into the canvas to form the blockchain",
+            "description": [
+                "Once in the canvas and validated, connect the block with another one."
+            ],
+            "image": [
+                "Green Cube",
+                "Chain",
+                "Red Cube"
+            ],
+            "button1" : "Next",
+            "button2" : ""
+        },
+        {
+            "panelID": 4,
+            "title": "Try clicking on a red cube to initiate a transaction",
+            "description": [
+                "Red Cube: Represents unvalidated transactions.\nClick on it to initiate a transaction and explore the mechanisms of validating it."
+            ],
+            "image": [
+                "Red Cube"
+            ],
+            "button1" : "Next",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 6,
+            "title": "From the mempool, choose one or more transactions to validate:",
+            "description": [
+                
+            ],
+            "image": [
+                "Proof of Work"
+            ],
+            "button1" : "Next",
+            "button2" : ""
+        },
+        {
+            "panelID": 7,
+            "title": "You've chosen transactions | from the pool.",
+            "description": [
+                "Just like real miners, you're considering factors such as transaction fees (gas) in the blockchain world.",
+                "Transactions with higher gas fees are often prioritized by miners to maximize their rewards."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Next",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 8,
+            "title": "",
+            "description": [
+                "In this scenario, the gas fee for these transactions is | ETH. This fee compensates miners for processing the transaction and encourages its inclusion in a block.",
+                "As you add > to the block, you'll experience firsthand how miners optimize their rewards on the blockchain.",
+                "Ready to continue?"
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Validate",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 9,
+            "title": "Consensus Puzzle",
+            "description": [
+                "In the world of blockchain, consensus is crucial. It's the agreement among nodes on the validity of transactions.",
+                "Let's simulate this with a consensus challenge."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Let's Do it",
+            "button2" : ""
+        },
+        {
+            "panelID": 10,
+            "title": "Proof of Work Challenge",
+            "description": [
+                "Prepare for the PoW challenge.",
+                "Mining utilizes hash, header, and nonce to ensure blockchain security. Solve the puzzle to simulate mining."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Start",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 12,
+            "title": "Congratulations! Proof of Work Completed!",
+            "description": [
+                "You've found a nonce that, combined with block data, meets the requirements for blockchain security. This process, called Proof of Work, is vital for blockchain integrity.",
+                "Miners compete to solve complex puzzles, like finding the nonce, to add blocks. This ensures blockchain security by making altering past transactions difficult."
+            ],
+            "image": [
+
+            ],
+            "button1": "Good Progress",
+            "button2": ""
+        },
+        {
+            "panelID": 14,
+            "title": "From the mempool, choose one or more transactions to validate:",
+            "description": [
+                
+            ],
+            "image": [
+                "Proof of Stake"
+            ],
+            "button1" : "Next",
+            "button2" : ""
+        },
+        {
+            "panelID": 15,
+            "title": "You've chosen transactions | from the pool.",
+            "description": [
+                "Just like real miners, you're considering factors such as transaction fees (gas) in the blockchain world.",
+                "Transactions with higher gas fees are often prioritized by miners to maximize their rewards."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Next",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 16,
+            "title": "",
+            "description": [
+                "In this case, the gas fee for this transaction is | ETH. By participating in this transaction, you're engaging with the Ethereum blockchain.",
+                "Ethereum is a decentralized platform renowned for its ability to facilitate the creation of smart contracts and decentralized applications (DApps).  Unlike traditional contracts, smart contracts are self-executing pieces of code with terms directly encoded.",
+                "\nWant to learn more?"
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Validate",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 17,
+            "title": "Consensus Puzzle",
+            "description": [
+                "In the world of blockchain, consensus is crucial. It's the agreement among nodes on the validity of transactions.",
+                "Let's simulate this with a consensus challenge."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Let's Do it",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 18,
+            "title": "Proof of Stake Challenge",
+            "description": [
+                "In this mechanism, validators stake their cryptocurrency to increase their chances of being chosen to validate blocks.",
+                "Your goal is to successfully validate the block by strategically staking your Tokens against two other validators.",
+                "Remember, higher stakes improve your chances of becoming the next validator."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Let's Start",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 20,
+            "title": "",
+            "description": [
+                "Your staking decision has been recorded. Now, let's reveal the other stakers’ bid. ",
+                "You are bidding against two other validators in the Proof of Stake mechanism. The system will now randomly determine the selected validator."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Next",
+            "button2" : ""
+        },
+        {
+            "panelID": 22,
+            "title": "",
+            "description": [
+                "Unfortunately, luck wasn't on your side this time.",
+                "The A staker bid 25 Tokens, and the system randomly selected their bid. As a result, they have been chosen to validate the next block.",
+                "Would you like to retry with a different bid or proceed to the next challenge?"
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Exit",
+            "button2" : ""
+        },
+        {
+            "panelID": 24,
+            "title": "Congratulations!",
+            "description": [
+                "The system randomly selected your bid, and you have been chosen to validate the next block.",
+                "Your decision to stake Tokens has paid off, and now you have the opportunity to contribute to the security of the blockchain by validating transactions and earning transaction fees."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Next",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 25,
+            "title": "",
+            "description": [
+                "This process is aligned with the Proof of Stake mechanism employed by Ethereum.",
+                "In PoS, validators are chosen to create new blocks and validate transactions based on the amount of cryptocurrency they are willing to \"stake\" or lock up as collateral.",
+                "By participating in this PoS-style validation, you're contributing to the security and functionality of the Ethereum blockchain."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Close",
+            "button2" : "Back"
+        },
+        {
+            "panelID": 27,
+            "title": "",
+            "description": [
+                "In this game, you'll learn about blockchain by connecting blocks. Each block's header is generated using the hash of the previous block, demonstrating how blockchain ensures data integrity and security.",
+                "By engaging with the game mechanics, you'll grasp firsthand the concept of immutability in blockchain and how each block's security is reinforced through its unique header hash."
+            ],
+            "image": [
+                
+            ],
+            "button1" : "Start",
+            "button2" : ""
+        }
+    ]
+}
